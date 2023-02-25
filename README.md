@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like designing, building and improving 'ideas' using AWS serverless.  
+I help simplify architecting, building and operating on Amazon Web Services (AWS).
 
 
 <!--
